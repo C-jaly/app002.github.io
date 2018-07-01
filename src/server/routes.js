@@ -1,4 +1,4 @@
 module.exports = (app) => {
   console.log('qa')
-  console.log('qatag2')
+  console.log('qatag2') 
 }
